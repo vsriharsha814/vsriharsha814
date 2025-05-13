@@ -47,7 +47,7 @@ I’m always exploring new technologies and best practices to solve real-world p
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vsriharsha814&show_icons=true&theme=tokyonight" alt="Sri's GitHub Stats" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=vsriharsha814&show_icons=true&theme=tokyonight" alt="Sri's GitHub Stats" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsriharsha814&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
